@@ -1,0 +1,193 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+section {
+    margin: 0;
+    min-height: 100vh;
+    justify-content: center;
+    background: #D7D7D7;
+}
+
+/**********************************************/
+/*****************Nav Bar***********************/
+/**********************************************/
+
+
+
+
+
+/**********************************************/
+/*****************Header***********************/
+/**********************************************/
+
+
+header {
+    background-image: url(/header.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    height: 400px;
+    width: 100%;
+}
+
+header::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to right bottom, black, rgba(0, 0, 0, 0.37), rgba(0, 0, 0, 0));
+}
+
+header * {
+    z-index: 1;
+}
+
+img {
+    position: relative;
+    float: left;
+    margin-left: 30px;
+    height: 30px;
+    margin-top: 30px;
+}
+
+a {
+    position: relative;
+    float: right;
+    margin-right: 30px;
+    outline: none;
+    text-decoration: none;
+    color: rgb(221, 221, 221);
+    letter-spacing: 1px;
+    font-weight: 300;
+    margin-top: 35px;
+}
+
+a:active {
+    transform: scale(.9);
+}
+
+a:hover {
+    color: #1DD200;
+    transition: all .3s;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 200px 0;
+}
+
+input {
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    background-color: #C4C4C4;
+    padding-left: 20px;
+    color: #00000093;
+    font-weight: 500;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+ion-icon {
+    font-size: 27px;
+}
+
+input:focus,
+.btn-search:focus {
+    outline: none;
+}
+
+/**********************************************/
+/****************Buttons***********************/
+/**********************************************/
+
+.btn-search,
+.btn {
+    cursor: pointer;
+    background-color: #1DD200;
+    border: none;
+    outline: none;
+}
+
+.btn-search {
+    height: 40px;
+    border-radius: 50px;
+    width: auto;
+    padding: 6px 8px;
+}
+
+.btn {
+    border-radius: 20px;
+    padding: 4px 10px;
+}
+
+.btn-search:active,
+.btn:active {
+    transform: scale(0.9);
+}
+
+
+
+/*************************************************/
+/**************Result Content********************/
+/*************************************************/
+
+.result-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.content-span {
+    margin-right: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul.songs li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 12px 0;
+    border-top: 2px solid #C4C4C4;
+}
+
+li {
+    padding-top: 5px;
+}
+
+.display {
+    margin: 30px auto;
+    max-width: 100%;
+    width: 610px;
+}
+
+.display h2 {
+    font-weight: 300;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+.centered button {
+    margin: 15px;
+}
