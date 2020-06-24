@@ -1,5 +1,5 @@
 # Searching-Song-Lyrics
-Uma ferramenta de pesquisa de letras de música construida com JavaScript, html5, css3 e a API lyrics.ovh. 
+Uma ferramenta de pesquisa de letras de música construida com JavaScript, html5, css3 e a [API lyrics.ovh.](https://lyrics.ovh/) 
 
 Acesse o projeto aqui [SongApp](https://gabrielmxavier.github.io/Searching-Song-Lyrics/)
 
