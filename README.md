@@ -5,7 +5,7 @@ Acesse o projeto aqui [SongApp](https://gabrielmxavier.github.io/Searching-Song-
 
 ## O que você terá de resultado
 
-Esse projeto retorna de resultado da pesquisa letras das música de acordo com o nome do artista ou da música que foi digitado no input.
+Esse projeto retorna de resultado letras de músicas de acordo com o nome do artista ou da música que foi digitado no campo de pesquisa.
 
 ## Screenshot do projeto
 
