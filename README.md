@@ -10,3 +10,7 @@ Esse projeto retorna de resultado letras de músicas de acordo com o nome do art
 ## Screenshot do projeto
 
 ![SongApp](https://github.com/gabrielmxavier/Searching-Song-Lyrics/blob/master/img/Song-screen-shot.jpg)
+
+## API usada no projeto
+
+Caso queira fazer um projeto com uma API de lyrics, [clique aqui](https://lyrics.ovh/) que você será redirecionado para a pagina oficial da API.
