@@ -13,4 +13,4 @@ Esse projeto retorna de resultado letras de músicas de acordo com o nome do art
 
 ## API usada no projeto
 
-Caso queira fazer um projeto com uma API de lyrics, [clique aqui](https://lyrics.ovh/) que você será redirecionado para a pagina oficial da API.
+Caso queira fazer um projeto com uma API de letra de música, [clique aqui](https://lyrics.ovh/) que você será redirecionado para a pagina oficial da API.
