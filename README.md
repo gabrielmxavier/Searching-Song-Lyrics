@@ -7,4 +7,4 @@ Esse projeto retorna de resultado da pesquisa letras das música de acordo com o
 
 ## Screenshot do projeto
 
-![SongApp](https://github.com/gabrielmxavier/Searching-Song-Lyrics/blob/master/Song-screen-shot.jpg)
+![SongApp](https://github.com/gabrielmxavier/Searching-Song-Lyrics/blob/master/img/Song-screen-shot.jpg)
